@@ -1,4 +1,4 @@
-module github.com/cloudtrust/zip
+module github.com/cloudtrust/zip/v2
 
 go 1.27.1
 
